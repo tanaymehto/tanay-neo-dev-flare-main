@@ -1,0 +1,12 @@
+node_modules
+*.log
+dist
+build
+.next
+out
+.env
+.env.*
+.git
+.vscode
+.idea
+.DS_Store
